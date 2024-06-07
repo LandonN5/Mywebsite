@@ -1,0 +1,35 @@
+body {
+    background-image: url(spaceBack.jpg);
+}
+
+#head {
+    background-image: linear-gradient(to bottom, rgb(85, 108, 240), rgb(255, 0, 170));
+    color: white;
+    text-align: center;
+    border-style: double;
+    border-color: black;
+}
+
+#gamesPage {
+    text-align: center;
+    color: white;
+    border-style: double;
+    border-color: black;
+    background-image: linear-gradient(to bottom, rgb(85, 108, 240), rgb(255, 0, 170));
+}
+
+#newsPage {
+    text-align: center;
+    color: white;
+    border-style: double;
+    border-color: black;
+    background-image: linear-gradient(to bottom, rgb(85, 108, 240), rgb(255, 0, 170));
+}
+
+#picPage {
+    text-align: center;
+    color: white;
+    border-style: double;
+    border-color: black;
+    background-image: linear-gradient(to bottom, rgb(85, 108, 240), rgb(255, 0, 170));
+}
